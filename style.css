@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkred;
+}
+
+p {
+    color: black;
+}
+
+.menu {
+    background-color: black;
+    padding: 10px;
+}
+
+.menu a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: yellow;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    background-color: orange;
+}
